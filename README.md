@@ -1,8 +1,3 @@
-<h1 align="center">👋 Howdy 👋, My Name is Lex</h1>
-<h3 align="center">A game developer from 🇦🇺 Australia 🇦🇺</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lextheconfusedraven&label=Views&color=ff8080&style=plastic" alt="lextheconfusedraven" /> </p>
-
 - 🔭 I’m currently working on **A 2D Platformer which jumps between 2 worlds!!!**
 
 - 🌱 I’m currently learning **Unity & C#**
